@@ -1,0 +1,10 @@
+1.Quick Analysis
+2.Information Finder
+3.Extended Info. Finder
+4.Male VS Female Comparison
+5.Calculate Annual Bonus
+
+1.Analyze Salary Spread
+2.Relationship Between Salary & Rating
+3.Company growth over Time
+4.Regional Scorecard
